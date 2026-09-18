@@ -55,7 +55,7 @@
 	"d1_databases": [
 		{
 			"binding": "DB",
-			"database_name": "obsidian-vault",
+			"database_name": "synch-db",
 			"migrations_dir": "drizzle","database_id": "7ebd2ded-c865-4392-9775-4c19a33297f8"
 		}
 	],
